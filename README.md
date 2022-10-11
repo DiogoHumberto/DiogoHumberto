@@ -1,4 +1,4 @@
-## Olá eu sou Diogo, Graduado em Gestão da tecnologia da informação e atualmente Desenvolvedor JAVA!
+## Olá eu sou Diogo, Desenvolvedor | Especialista JAVA
 <div align="center">
   <a href="https://github.com/DiogoHumberto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiogoHumberto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
