@@ -1,8 +1,8 @@
 ## Desenvolvedor | Especialista JAVA
 <div align="center">
 
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=DiogoHumberto&show_icons=true&theme=default#gh-light-mode-only)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoHumberto&layout=compact&langs_count=7)]
+![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=DiogoHumberto&show_icons=true&theme=default#gh-light-mode-only)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoHumberto&layout=compact&langs_count=7)
 </div>
 
 <div align="center" style="display: inline_block"><br>
