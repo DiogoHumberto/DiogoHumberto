@@ -23,6 +23,6 @@ Trabalho com desenvolvimento desde de 2013, atualmente lidero equipes na entrega
 
 ### Badges
 
-<b>My GitHub Stats</b>
+[//]: # (<b>My GitHub Stats</b>)
 
-<a href="http://www.github.com/DiogoHumberto"><img src="https://github-readme-stats.vercel.app/api?username=DiogoHumberto&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&show_icons=true" alt="DiogoHumberto's GitHub stats" /></a>
+[//]: # (<a href="http://www.github.com/DiogoHumberto"><img src="https://github-readme-stats.vercel.app/api?username=DiogoHumberto&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&show_icons=true" alt="DiogoHumberto's GitHub stats" /></a>)
