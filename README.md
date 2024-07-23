@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'am Diogo H. Vitorio Dal Bosco
+Olá, sou Diogo H. Vitorio Dal Bosco
 ========================================================================================================================================================
 
-Senior Software Engineer | Especialista Java
+Lead Software Engineer | Especialista Java
 ------------------------
 
 Trabalho com desenvolvimento desde de 2013, atualmente lidero equipes na entrega de soluções tecnológicas avançadas, sempre focando em performance, escalabilidade e segurança. Com um MBA em Engenharia de Software, aplico uma visão estratégica na análise de viabilidade técnica e na promoção das melhores práticas de engenharia de software, contribuindo significativamente para o sucesso dos projetos. O desenvolvimento de soluções inovadoras, como a implementação da Biometria Comportamental e jornada LAAS para solução de crédito 'as a service' para e-commerces, lojas on-line e ERPs no Bradesco. Em minha carreira procuro evidenciar sempre a capacidade de integrar novas tecnologias e ferramentas para aprimorar continuamente os processos. Minha experiência anterior como Tech Lead na BRQ Digital Solutions e Analista de Sistemas na SIS (Soluções Integradas de Sistemas) reforça meu comprometimento com a qualidade técnica e liderança eficaz em equipe.
